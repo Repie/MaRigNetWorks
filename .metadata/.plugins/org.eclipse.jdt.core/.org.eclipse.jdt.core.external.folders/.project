@@ -24,5 +24,15 @@
 			<type>2</type>
 			<location>C:/Users/Faustine/.grails/2.0.1/projects/MaRigNetWorks/plugin-classes</location>
 		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>C:/Users/Faustine/.groovy/greclipse/global_dsld_support</location>
+		</link>
+		<link>
+			<name>.link4</name>
+			<type>2</type>
+			<location>C:/Program Files/Eclipse JEE/plugins/org.codehaus.groovy_1.8.6.xx-20120301-1000-e37-RELEASE/plugin_dsld_support</location>
+		</link>
 	</linkedResources>
 </projectDescription>
