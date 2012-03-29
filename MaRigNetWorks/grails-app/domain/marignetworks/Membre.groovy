@@ -16,6 +16,6 @@ class Membre {
     }
 	
 	String toString() {
-		return "Ton nom : "+nom+" Prenom : "+prenom+"."
+		return "nom : "+nom+" Prenom : "+prenom+"."
 	}
 }

@@ -7,5 +7,6 @@ class Mur {
 	static belongsTo = Membre
 
     static constraints = {
+		proprietaire blank : false
     }
 }

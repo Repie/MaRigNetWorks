@@ -9,5 +9,11 @@ class Evenement {
 	static belongsTo = Membre
 
     static constraints = {
+		titre blank : false
+		organisateur blank : false
+		dateDebut blank : false
+		dateFin blank : false
+		messages nullable : true
+		
     }
 }
